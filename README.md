@@ -1,5 +1,10 @@
-# rpunkfu-syntax theme
+> Iggy Syntax
 
-A short description of your theme.
+This is just a quick syntax theme I came up with, based on One Light.
+Ideally this one will evolve into something nicer, there's still
+a lot of things that need fixing (spacing, underlines, overlays).
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+Additionally I will create heavily monochromatic version of it, because right
+now there's too much colors for my taste :)
+
+![screen](http://i.imgur.com/kTUBNxw.jpg)
